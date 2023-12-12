@@ -33,7 +33,7 @@ Run the code using `npm develop`
 ## Usage
 This is the front-end webpage of the Book-Search-Engine. It is responsive, adapting to multiple screen sizes. The main page shows new users a menu, with which they can search for books, login, or signup. If the user is logged in, the buttons they will see options to search for books, view their saved books, delete saved books, and/or logout.
 
-![Screenshot](Develop/client/public/Screenshot%202023-11-29%20at%201.01.12 PM.png)
+![Book finder demo gif](client/public/Vite%20+%20React.gif)
 
 ## Deployed Site
 
